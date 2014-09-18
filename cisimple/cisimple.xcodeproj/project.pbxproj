@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0A0B9200167AFA1900E4CB8D /* Crashlytics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A0B91FF167AFA1900E4CB8D /* Crashlytics.framework */; };
 		0A243A15158EBCB800C9CCCC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A243A14158EBCB800C9CCCC /* UIKit.framework */; };
 		0A243A17158EBCB800C9CCCC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A243A16158EBCB800C9CCCC /* Foundation.framework */; };
 		0A243A19158EBCB900C9CCCC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A243A18158EBCB800C9CCCC /* CoreGraphics.framework */; };
@@ -72,7 +71,6 @@
 				0A243A15158EBCB800C9CCCC /* UIKit.framework in Frameworks */,
 				0A243A17158EBCB800C9CCCC /* Foundation.framework in Frameworks */,
 				0A243A19158EBCB900C9CCCC /* CoreGraphics.framework in Frameworks */,
-				0A0B9200167AFA1900E4CB8D /* Crashlytics.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
